@@ -1,0 +1,11 @@
+build/
+dist/
+__pycache__/
+*.spec
+TurboInput.exe
+TurboInput_Setup.exe
+config.json
+config.json.bak
+ОТЧЁТ.md
+диагностика-скриншоты/
+_*.*
